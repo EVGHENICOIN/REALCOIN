@@ -1,4 +1,10 @@
 # REALCOIN
 CRIPTOMONEY
-CONTRACT - 	0x8E656797A8C494ab9148b21E30250CeD0AfD9f17
-плата за газ eth
+CONTRACt
+покупать
+продовать
+сбережений
+услуги
+обмен
+продовать
+///
