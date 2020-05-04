@@ -199,3 +199,8 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+
+ERC-20. real максимальные монеты: около 1000000000000.000 Тема: Etherscan.io 0x1874edb62578700ccec7d6c2bfb4395187618d9b5cb0734999d30c134243351a Temaethplorer.io/address/0x8e656797a8c494ab9148b21e30250ced0afd9f17 Copyright realcoin.com
+
+Это децентрализованных транзакций без посредники "пример" банки и государство. Не превязыны к $ долару или другая валюта мира а привязыны к стоймостю золата по курсу 1 real - 0.1 g. gold 99% по курсу мировой . " 1g  стойт 51,98$ 0,1gold=5.2$  rub 1g=3318 0.1gold=332 я признаю все валюты мира по курсу золата 0,1g
